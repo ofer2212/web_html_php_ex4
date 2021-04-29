@@ -1,0 +1,43 @@
+.container {
+    margin-top: 200px;
+}
+
+.new-arrivals {
+    background: green;
+    width: 50px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.col-md-7 h2 {
+    colo: #555
+}
+
+.img-container {
+    margin-right: 100px;
+}
+
+.price {
+    color: #FE980F;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+input[type=number] {
+    border: 1px solid #ccc;
+    font-weight: bold;
+    height: 33px;
+    text-align: center;
+    width: 30px;
+}
+
+.cart {
+    background: #fe980f;
+    color: white;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+/*path { fill: orange; }*/
